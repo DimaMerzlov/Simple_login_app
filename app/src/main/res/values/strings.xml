@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test task 5Pro</string>
+    <string name="btn_text">CONTINUE</string>
+    <string name="edt_phone_number">Phone number</string>
+    <string name="edt_password">password</string>
+    <string name="edt_info_surname">Surname</string>
+    <string name="edt_info_name">Name</string>
+</resources>
